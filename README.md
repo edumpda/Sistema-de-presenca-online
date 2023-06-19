@@ -50,12 +50,3 @@ pip install -r requirements.txt
 ```shell
 python app.py
 ```
-
-5. Acesse a aplicação em seu navegador web:
-
-http://localhost:5000
-
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
