@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+pytz
+bcrypt
+Gunicorn
+pytelegrambotapi
